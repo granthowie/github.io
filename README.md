@@ -1,37 +1,15 @@
-## Welcome to Test Page
+I've worked for both startups and corporates throughout the world (Sydney, San Francisco, London and the Middle East). I am passionate about the role digital technology can play in disrupting existing, or creating entirely new, business models.
 
-You can use the [editor on GitHub](https://github.com/granthowie/granthowie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My experience has taught me to:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Obsess about the customer: observe, ask questions, have empathy, test, measure
 
-### Markdown
+*Leverage technology and data to converge the digital/physical experience to help re-imagine the entire customer experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Empower cross-functional teams, with clear problems to solve, and let them run at it with speed and agility
 
-```markdown
-Syntax highlighted code block
+*Connect with an ecosystem of people, technologies, startups and ideas outside your organisation/industry to identify threats, opportunities and partnerships
 
-# Header 1
-## Header 2
-### Header 3
+*and finally, Get Shit Done. Ideas alone do not create change.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/granthowie/granthowie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:fire: :rocket: :boom:
