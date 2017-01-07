@@ -12,6 +12,4 @@ My experience has taught me to:
 
 * and finally, Get Shit Done. Ideas alone do not create change.
 
-:EMOJICODE:
-
-:fire: :rocket: :boom:
+Thanks for visting! :fire: :rocket: :boom:
